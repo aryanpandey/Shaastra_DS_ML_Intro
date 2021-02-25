@@ -1,11 +1,3 @@
 # Shaastra_DS_ML_Intro
 
-Order your repo like this
-
--- Folder name (separate for each topic)
-
--------Content for that folder
-
--- Folder 2
-
--------Content for that folder
+Link for the colab notebooks: [![Open All Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryanpandey/Shaastra_DS_ML_Intro)
