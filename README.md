@@ -23,5 +23,3 @@ You could also learn some of the following algorithms in your own time:
 - Random Forests
 - Bagging and Boosting
 - XGBoost
-
-If you'd like to reach out to us for any doubts then contact us via aryanpandey1192k@gmail.com or ce19b114@smail.iitm.ac.in
